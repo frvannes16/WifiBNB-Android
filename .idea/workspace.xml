@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35f60564-0287-4f92-9b87-6f387a48c4fa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/WifiBNB.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/WifiBNB.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -121,7 +116,21 @@
       <option name="project" value="LOCAL" />
       <updated>1595085690847</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initial commit. Simple project">
+      <created>1595086171971</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1595086171971</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Initial commit. Simple project">
+      <created>1595086182400</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1595086182400</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -129,14 +138,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="Initial commit. Simple project" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2330" y="688" width="769" height="876" key="CommitChangelistDialog2" timestamp="1595086171642">
+    <state x="2330" y="688" width="769" height="876" key="CommitChangelistDialog2" timestamp="1595086182246">
       <screen x="1440" y="403" width="2560" height="1440" />
     </state>
-    <state x="2330" y="688" width="769" height="876" key="CommitChangelistDialog2/1440.403.2560.1440/0.430.1440.2130@1440.403.2560.1440" timestamp="1595086171642" />
+    <state x="2330" y="688" width="769" height="876" key="CommitChangelistDialog2/1440.403.2560.1440/0.430.1440.2130@1440.403.2560.1440" timestamp="1595086182246" />
     <state x="2490" y="805" width="449" height="643" key="RollbackChangesDialog" timestamp="1595085653935">
       <screen x="1440" y="403" width="2560" height="1440" />
     </state>
     <state x="2490" y="805" width="449" height="643" key="RollbackChangesDialog/1440.403.2560.1440/0.430.1440.2130@1440.403.2560.1440" timestamp="1595085653935" />
+    <state x="2315" y="859" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1595086197431">
+      <screen x="1440" y="403" width="2560" height="1440" />
+    </state>
+    <state x="2315" y="859" width="800" height="535" key="Vcs.Push.Dialog.v2/1440.403.2560.1440/0.430.1440.2130@1440.403.2560.1440" timestamp="1595086197431" />
     <state x="2381" y="950" key="com.intellij.ide.util.TipDialog" timestamp="1595085754231">
       <screen x="1440" y="403" width="2560" height="1440" />
     </state>
